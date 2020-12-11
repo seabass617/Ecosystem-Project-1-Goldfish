@@ -1,3 +1,3 @@
-# Matrix Simulation
+# Ecosystem Project 1: Golfish
 
-Credit for this project goes to Emily Xie, who made a tutorial on youtube.
+This is my first project from reading through "The Nature of Code". This project is focused on modeling vectors and manipulating the location of an object using the acceleration vector. 
