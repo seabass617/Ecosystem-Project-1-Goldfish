@@ -1,0 +1,16 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+
+  /* These body and window settings will ensure that you have a borderless, scrollbarless, seamless, canvas that will take up the full view of the screen */
+  body {
+    padding: 0; 
+    margin: 0;
+    /* background: darkslategrey; */
+    overflow: hidden;
+  }
+  #window {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+  }
